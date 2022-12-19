@@ -38,3 +38,25 @@ Known how to use Matplotlib to produce plots showing your findings
 ><li>vote_average:Average of votes for the movie</li>
 ><li>vote_count: number of people voted</li>
 </br>
+
+### Question(s) for Analysis
+#### 1)Classify the most used genre at current year
+#### 2)Analysing the Runtime for every movie
+#### 3)Relation between budget and revenue of the movie
+
+## Data Wrangling
+
+> We will load in the data, check for cleanliness, and then trim and clean your dataset for analysis.
+
+## Conclusions
+
+### We reach the final of the project,let's conclude some of what we saw:
+> We had seen that "Drama" was leading in that specific year (from Q1)
+
+> The avg duration of the movie ranged from 90 - 99 min that's why the audience don't get bored (from Q2)
+
+>The budget increases, so the revenue increases 
+
+### Limitaion
+> We face that genres column issue which we had to extract them from that list of dictionries, Whatever there can't be a movie which can take all that value of genres. As the budget and revenue weren't specified with certain currency but it doesn't matter we didn't use them in our analysis
+### Data Cleaning
